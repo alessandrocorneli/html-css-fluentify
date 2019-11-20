@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-pagina{
+  height: 500px;
+  background-image: url("../img/oldman.png");
+  background-color: #0c325a;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: right bottom;
+}
+
+.nav-left{
+  
+}
