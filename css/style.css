@@ -15,9 +15,13 @@
 
 .nav li{
   display: inline;
+  padding: 10px;
 }
-
 .nav a{
   color: #fff;
   text-transform: uppercase;
+  text-decoration: none;
+}
+.nav-left{
+  float: left;
 }
