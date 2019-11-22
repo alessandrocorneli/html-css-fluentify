@@ -24,4 +24,6 @@
 }
 .nav-left{
   float: left;
+  width: 60%;
+  height: 100%;
 }
